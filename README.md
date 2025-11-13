@@ -10,6 +10,7 @@ Example Outputs:
 <img width="464" height="139" alt="image" src="https://github.com/user-attachments/assets/6f4d1784-5df9-40ff-a53d-ba2d79ce75fd" />
 
 
+
 Follows is it's associated Virtual Proxy based UML diagram.
 
 <img width="623" height="434" alt="image" src="https://github.com/user-attachments/assets/822aae86-f41f-4aa7-977f-5f602d2357b9" />
